@@ -9,6 +9,9 @@ Este workflow automatiza la captura, clasificación y gestión de leads desde un
 
 ![Clasificador Inteligente de Leads](https://github.com/romyluna/N8N-clasificador-inteligente-leads/blob/master/Screenshots/N8N%20PROYECTO.PNG?raw=true)
 
+##google sheets ejemplo de como registra:
+![Registro en Google Sheets](https://github.com/romyluna/N8N-clasificador-inteligente-leads/blob/master/Screenshots/sheetmuestra.png)
+
 
 ## 🛠 Tecnologías
 - **n8n** para automatización de workflows
